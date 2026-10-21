@@ -15,9 +15,17 @@ A Fourier neural operator (FNO) maps the rest surface profile and a normalized t
 
 Python 3.10+, PyTorch, NumPy, SciPy, Matplotlib.
 
+```bash
+pip install torch numpy scipy matplotlib
+```
+
 ## Data
 
-The data are available upon reasonable request.
+The reference solutions are not included and are available upon reasonable request. Place them in `data/` or set
+
+```bash
+export STANDING_WAVE_DATA=/path/to/data
+```
 
 ## Citation
 
