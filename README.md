@@ -1,4 +1,4 @@
-# fno-sw
+# Learning the solution operator of standing waves with a Fourier neural operator
 
 Code for *Fourier neural operator for space-time periodic standing water waves*.
 
